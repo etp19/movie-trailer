@@ -30,7 +30,7 @@ x_men = media.Movies("X-Men: Apocalypse", "Another very good movie",
 
 justice = media.Movies("Justice League", "Bruce Wayne enlists the help of his new found ally, Diana Prince,"
                        "to face an even greater enemy.",
-                       "https://upload.wikimedia.org/wikipedia/en/e/e5/Justice_League_film_logo.jpg",
+                       "http://assets1.ignimgs.com/2017/03/24/justice-league-team-poster-1490394606261_1280w.jpg",
                        "https://www.youtube.com/watch?v=fIHH5-HVS9o")
 
 
